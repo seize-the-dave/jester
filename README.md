@@ -1,4 +1,4 @@
-jester
+Jester
 ======
 
-Java Implementation of Enrollment over Secure Transport
+Jester has moved to https://github.com/adaptive-logic/jester
